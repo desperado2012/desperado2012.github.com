@@ -1,0 +1,12 @@
+
+http://desperado2012.github.com/archive.html
+http://desperado2012.github.com/atom.xml
+http://desperado2012.github.com/categories.html
+http://desperado2012.github.com/index.html
+http://desperado2012.github.com/index_copy.html
+http://desperado2012.github.com/pages.html
+http://desperado2012.github.com/sitemap.txt
+http://desperado2012.github.com/tags.html
+
+http://desperado2012.github.com/2012/06/30/how-to-set-up-this-blog
+http://desperado2012.github.com/lessons/2011/12/29/jekyll-introduction
