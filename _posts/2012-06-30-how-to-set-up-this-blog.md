@@ -36,8 +36,11 @@ tags : [how-to, blog]
 写这篇的时候，发现淘宝UED也出了篇介绍markdown的帖子[开始使用 Markdown](http://ued.taobao.com/blog/2012/07/03/getting-started-with-markdown/)，我终于潮了一把。只是装jekyll的时候，总是报错，只能老老实实的装了rvm，然后升级ruby果然就好了。
 
 rvm的安装说明在这里，[RVM 安装与使用](http://www.cnblogs.com/orez88/articles/2270751.html)。
+
 markdown的语法说明在这里，[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)。
-jekyll的安装方法在这里，[使用Jekyll在Github上搭建博客](http://taberh.me/2011/12/26/use-Jekyll-build-Blog-on-Github.html).
+
+jekyll的安装方法在这里，[使用Jekyll在Github上搭建博客](http://taberh.me/2011/12/26/use-Jekyll-build-Blog-on-Github.html)。
+
 jekyll的官网在这里，[JB](http://jekyllbootstrap.com/)。
 
 ## Things to be continued ##

@@ -3,7 +3,6 @@ http://desperado2012.github.com/archive.html
 http://desperado2012.github.com/atom.xml
 http://desperado2012.github.com/categories.html
 http://desperado2012.github.com/index.html
-http://desperado2012.github.com/index_copy.html
 http://desperado2012.github.com/sitemap.txt
 http://desperado2012.github.com/tags.html
 
