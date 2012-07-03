@@ -102,9 +102,9 @@
 
 <p>注册Github其实有不短的一段时间了，但是除了刚开始注册时用过几次，就束之高阁了。看到这一篇<a href='http://www.yangzhiping.com/tech/github.html'>如何高效利用GitHub</a>让我决定静下心来好好接触一下Github。之前git的配置还是比较顺利的，但是使用方面基本是零基础。还好，还有svn的那点儿底子。</p>
 
-<pre><code>//准备工作，生成密钥导入Github
+<pre><code>//准备工作，生成密钥并导入Github
+ssh-keygen -t rsa -C &quot;xxx@gmail.com&quot;
 
-//准备工作
 //初始化目录
 git init
 
@@ -120,9 +120,27 @@ git remote add origin git@github.com:desperado2012/desperado2012.github.com.git
 //作为master提交到github
 git push origin master</code></pre>
 
-<p>嗯，目前我就只用到了这种程度，更多的命令和操作有待慢慢练习，</p>
+<p>嗯，目前我就只用到了这种程度，更多的命令和操作有待慢慢练习，看过的帖子有<a href='http://www.cnblogs.com/welfear/archive/2010/05/24/1742614.html'>git使用说明</a>和<a href='http://www.linuxidc.com/Linux/2011-04/35036.htm'>Git和Github初次使用</a>。</p>
 
-<h2 id='jekyll__markdown'>jekyll &amp; markdown</h2>
+<h2 id='jekyll__markdown'><a href='http://baike.baidu.com/view/7878719.htm'>jekyll</a> &amp; <a href='http://baike.baidu.com/view/2311114.htm'>markdown</a></h2>
+
+<p>写这篇的时候，发现淘宝UED也出了篇介绍markdown的帖子<a href='http://ued.taobao.com/blog/2012/07/03/getting-started-with-markdown/'>开始使用 Markdown</a>，我终于潮了一把。只是装jekyll的时候，总是报错，只能老老实实的装了rvm，然后升级ruby果然就好了。</p>
+
+<p>rvm的安装说明在这里，<a href='http://www.cnblogs.com/orez88/articles/2270751.html'>RVM 安装与使用</a>。 markdown的语法说明在这里，<a href='http://wowubuntu.com/markdown/'>Markdown 语法说明 (简体中文版)</a>。 jekyll的安装方法在这里，<a href='http://taberh.me/2011/12/26/use-Jekyll-build-Blog-on-Github.html'>使用Jekyll在Github上搭建博客</a>. jekyll的官网在这里，<a href='http://jekyllbootstrap.com/'>JB</a>。</p>
+
+<h2 id='things_to_be_continued'>Things to be continued</h2>
+
+<p>经过一番折腾，发现我把Mac上的开发环境搞乱了，一定要找个时间重装一下。重新梳理一下开发环境。</p>
+
+<ul>
+<li>Sublime</li>
+
+<li>Nginx, SVN, Git</li>
+
+<li>RVM, ruby, gem, jekyll, markdown</li>
+
+<li>qzz</li>
+</ul>
     <hr>
     <div class="pagination">
       <ul>
@@ -131,7 +149,7 @@ git push origin master</code></pre>
       
         <li><a href="/archive.html">Archive</a></li>
       
-        <li class="next disabled"><a>Next &rarr;</a>
+        <li class="next"><a href="/diary/2012/07/03/things-wanna-do-before-gratuation" title="Things Wanna Do Before Gratuation">Next &rarr;</a></li>
       
       </ul>
     </div>

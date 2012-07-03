@@ -7,4 +7,5 @@ http://desperado2012.github.com/index_copy.html
 http://desperado2012.github.com/sitemap.txt
 http://desperado2012.github.com/tags.html
 
+http://desperado2012.github.com/diary/2012/07/03/things-wanna-do-before-gratuation
 http://desperado2012.github.com/tech/2012/06/30/how-to-set-up-this-blog
