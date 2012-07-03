@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Blog & Me
+title: All About The Beginning
 tagline: a new start
 category : diary
 tags : [blog, beginning]
@@ -37,3 +37,18 @@ tags : [blog, beginning]
 - 除了技术宅+认真实习，目前没什么其他理想的无脑青年1枚
 
 - 周围姑娘各种谈恋爱嫁人，依旧碌碌无为的麻木青年1枚
+
+--------------------
+## Things to do ##
+--------------------
+From 2012.6.30.
+
+- 研究一下git和github的操作和机制
+
+- 研究一下markdown和jekyll的操作和机制
+
+- 持续的练习mac和sublime快捷键
+
+- 持续的在github上写博客
+
+- 开始重构和完善二级工程实践的代码（mock，自动化测试...）
